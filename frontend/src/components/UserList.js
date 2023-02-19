@@ -63,9 +63,9 @@ const UserList = () => {
                 <td>{index + 1}</td>
                 <td>{user.name}</td>
                 <td>{user.ninumber}</td>
-                <td>{user.contributions20182019}</td>
-                <td>{user.contributions20192020}</td>
-                <td>{user.difference}</td>
+                <td>£{user.contributions20182019}</td>
+                <td>£{user.contributions20192020}</td>
+                <td>£{user.difference}</td>
                 <td>
                   {/* Link to edit a user */}
                   <Link to={`edit/${user._id}`} className="button">
