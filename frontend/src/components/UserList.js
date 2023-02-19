@@ -49,6 +49,7 @@ const UserList = () => {
             <tr className="border-container">
               <th>User</th>
               <th>Name</th>
+              <th>NI Number</th>
               <th>Contributions 2018/19</th>
               <th>Contributions 2019/20</th>
               <th>Yearly Difference</th>
