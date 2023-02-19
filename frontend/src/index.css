@@ -1,5 +1,5 @@
 .button {
-  background-color: #4caf50; /* Green */
+  background-color: #81af83; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -16,7 +16,7 @@
 }
 
 .buttonRed {
-  background-color: #ff0000; /* Red */
+  background-color: #ca4646; /* Red */
   border: none;
   color: white;
   padding: 15px 32px;
