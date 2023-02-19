@@ -1,3 +1,5 @@
+import mongoose from "mongoose";  // Importing Mongoose library
+
 const User = mongoose.Schema({
   name: {
     type: String,
