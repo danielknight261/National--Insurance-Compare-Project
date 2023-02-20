@@ -35,3 +35,9 @@ For support, email danielknight261@gmail.com
 
 
 ```
+
+Stretch goals.
+
+- Difference colum updating when editing the user
+- Adding a true calculation that works out the contribution based on income
+- More styling CSS
